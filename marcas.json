@@ -76,33 +76,6 @@
       "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/isotonico-gatorade-frutas-tropical-500cc/p"
     },
     {
-      "id": "imperial_cerveza",
-      "nombre": "Imperial",
-      "categoria": "Bebidas",
-      "descripcion": "Cerveza Imperial, la premium argentina.",
-      "imagen": "images/imperial_cerveza.jpg",
-      "product_ref": "Cerveza Imperial Golden 473cc",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cerveza-imperial-golden-473cc/p"
-    },
-    {
-      "id": "patagonia_cerveza",
-      "nombre": "Patagonia",
-      "categoria": "Bebidas",
-      "descripcion": "Cerveza Patagonia, artesanal del sur.",
-      "imagen": "images/patagonia_cerveza.jpg",
-      "product_ref": "Cerveza 473 Ml X 6 U Patagonia",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cerveza-473-ml-x-6-u-patagonia/p"
-    },
-    {
-      "id": "schweppes",
-      "nombre": "Schweppes",
-      "categoria": "Bebidas",
-      "descripcion": "Gaseosa Schweppes tónica, el clásico del aperitivo.",
-      "imagen": "images/schweppes.jpg",
-      "product_ref": "Gaseosa Schweppes Tónica 1.5 L",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/gaseosa-schweppes-tonica-1-5-l/p"
-    },
-    {
       "id": "coca_cola",
       "nombre": "Coca Cola",
       "categoria": "Bebidas",
@@ -110,15 +83,6 @@
       "imagen": "images/coca_cola.jpg",
       "product_ref": "Coca-cola Zero 2,25 Lt",
       "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/coca-cola-zero-2-25-lt/p"
-    },
-    {
-      "id": "dr_lemon",
-      "nombre": "Dr Lemon",
-      "categoria": "Bebidas",
-      "descripcion": "Aperitivo Dr. Lemon, nueva sensación argentina.",
-      "imagen": "images/dr_lemon.jpg",
-      "product_ref": "Aperitivo Dr.lemon Vodka 473cc",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/aperitivo-dr-lemon-vodka-473cc/p"
     },
     {
       "id": "bon_o_bon",
@@ -292,24 +256,6 @@
       "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/shampoo-capilatis-iluminador-420-ml/p"
     },
     {
-      "id": "fernet_branca",
-      "nombre": "Branca",
-      "categoria": "Bebidas",
-      "descripcion": "Fernet Branca, el aperitivo nacional argentino.",
-      "imagen": "images/fernet_branca.jpg",
-      "product_ref": "Fernet Branca 750 Ml",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/fernet-branca-750-ml-2/p"
-    },
-    {
-      "id": "fernet_capri",
-      "nombre": "Capri",
-      "categoria": "Bebidas",
-      "descripcion": "Fernet Capri, alternativa económica muy popular.",
-      "imagen": "images/fernet_capri.jpg",
-      "product_ref": "Fernet Capri Bot700",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/fernet-capri-bot700-2/p"
-    },
-    {
       "id": "taragui",
       "nombre": "Taragui",
       "categoria": "Bebidas",
@@ -317,33 +263,6 @@
       "imagen": "images/taragui.jpg",
       "product_ref": "Yerba Mate 4flex Taragui 1 Kg",
       "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/yerba-mate-4flex-taragui-1-kg/p"
-    },
-    {
-      "id": "jack_daniels",
-      "nombre": "Jack Daniels",
-      "categoria": "Bebidas",
-      "descripcion": "Jack Daniel's, el whisky americano más popular en Argentina.",
-      "imagen": "images/jack_daniels.jpg",
-      "product_ref": "Whisky Jack Daniels #7",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/whisky-jack-daniels-7/p"
-    },
-    {
-      "id": "smirnoff",
-      "nombre": "Smirnoff",
-      "categoria": "Bebidas",
-      "descripcion": "Vodka Smirnoff, el más vendido del mundo.",
-      "imagen": "images/smirnoff.jpg",
-      "product_ref": "Vodka Smirnoff 700 Ml",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/vodka-smirnoff-700-ml/p"
-    },
-    {
-      "id": "corona",
-      "nombre": "Corona",
-      "categoria": "Bebidas",
-      "descripcion": "Cerveza Corona, refrescante y premium.",
-      "imagen": "images/corona.jpg",
-      "product_ref": "Cerveza Rubia 330ml Corona",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cerveza-rubia-330ml-corona-2/p"
     },
     {
       "id": "cabrales_cafe",
@@ -362,15 +281,6 @@
       "imagen": "images/la_virginia.jpg",
       "product_ref": "Cafe La Virginia Molido 125gr",
       "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cafe-la-virginia-molido-125gr/p"
-    },
-    {
-      "id": "salentein",
-      "nombre": "Salentein",
-      "categoria": "Bebidas",
-      "descripcion": "Espumante Salentein, elegancia mendocina.",
-      "imagen": "images/salentein.jpg",
-      "product_ref": "Espumante Salentein Extra Brut Est",
-      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/espumante-salentein-extra-brut-est/p"
     },
     {
       "id": "lays",
