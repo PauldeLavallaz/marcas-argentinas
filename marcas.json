@@ -308,6 +308,312 @@
       "imagen": "images/fernet_capri.jpg",
       "product_ref": "Fernet Capri Bot700",
       "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/fernet-capri-bot700-2/p"
+    },
+    {
+      "id": "taragui",
+      "nombre": "Taragui",
+      "categoria": "Bebidas",
+      "descripcion": "Yerba mate Taragüí, la más tomada de Argentina.",
+      "imagen": "images/taragui.jpg",
+      "product_ref": "Yerba Mate 4flex Taragui 1 Kg",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/yerba-mate-4flex-taragui-1-kg/p"
+    },
+    {
+      "id": "jack_daniels",
+      "nombre": "Jack Daniels",
+      "categoria": "Bebidas",
+      "descripcion": "Jack Daniel's, el whisky americano más popular en Argentina.",
+      "imagen": "images/jack_daniels.jpg",
+      "product_ref": "Whisky Jack Daniels #7",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/whisky-jack-daniels-7/p"
+    },
+    {
+      "id": "smirnoff",
+      "nombre": "Smirnoff",
+      "categoria": "Bebidas",
+      "descripcion": "Vodka Smirnoff, el más vendido del mundo.",
+      "imagen": "images/smirnoff.jpg",
+      "product_ref": "Vodka Smirnoff 700 Ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/vodka-smirnoff-700-ml/p"
+    },
+    {
+      "id": "corona",
+      "nombre": "Corona",
+      "categoria": "Bebidas",
+      "descripcion": "Cerveza Corona, refrescante y premium.",
+      "imagen": "images/corona.jpg",
+      "product_ref": "Cerveza Rubia 330ml Corona",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cerveza-rubia-330ml-corona-2/p"
+    },
+    {
+      "id": "cabrales_cafe",
+      "nombre": "Cabrales",
+      "categoria": "Bebidas",
+      "descripcion": "Café Cabrales, el café molido más tradicional de Argentina.",
+      "imagen": "images/cabrales_cafe.jpg",
+      "product_ref": "Café Molido Cabrales 250 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cafe-molido-cabrales-250-gr/p"
+    },
+    {
+      "id": "la_virginia",
+      "nombre": "La Virginia",
+      "categoria": "Bebidas",
+      "descripcion": "Café La Virginia, clásico del desayuno argentino.",
+      "imagen": "images/la_virginia.jpg",
+      "product_ref": "Cafe La Virginia Molido 125gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cafe-la-virginia-molido-125gr/p"
+    },
+    {
+      "id": "salentein",
+      "nombre": "Salentein",
+      "categoria": "Bebidas",
+      "descripcion": "Espumante Salentein, elegancia mendocina.",
+      "imagen": "images/salentein.jpg",
+      "product_ref": "Espumante Salentein Extra Brut Est",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/espumante-salentein-extra-brut-est/p"
+    },
+    {
+      "id": "lays",
+      "nombre": "Lay´S",
+      "categoria": "Snacks",
+      "descripcion": "Papas fritas Lay's, el snack más conocido del mundo.",
+      "imagen": "images/lays.jpg",
+      "product_ref": "Papas Fritas Lays Clásicas 330 G",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/papas-fritas-lays-clasicas-330-g/p"
+    },
+    {
+      "id": "pehuamar",
+      "nombre": "Pehuamar",
+      "categoria": "Snacks",
+      "descripcion": "Papas fritas Pehuamar, el clásico snack argentino.",
+      "imagen": "images/pehuamar.jpg",
+      "product_ref": "Papas Fritas Pehuamar Clásica 90 G",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/papas-fritas-pehuamar-clasica-90-g/p"
+    },
+    {
+      "id": "mani_king",
+      "nombre": "Mani King",
+      "categoria": "Alimentos",
+      "descripcion": "Manteca de maní Mani King, proteína natural.",
+      "imagen": "images/mani_king.jpg",
+      "product_ref": "Manteca De Maní Mani King 350 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/manteca-de-mani-mani-king-350-gr-2/p"
+    },
+    {
+      "id": "corny",
+      "nombre": "Corny",
+      "categoria": "Snacks",
+      "descripcion": "Barras de cereal Corny, energía para el día.",
+      "imagen": "images/corny.jpg",
+      "product_ref": "Barra De Cereal Corny Chocolate Banana 6x25g",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/barra-de-cereal-corny-chocolate-banana-6x25g/p"
+    },
+    {
+      "id": "danette",
+      "nombre": "Danette",
+      "categoria": "Alimentos",
+      "descripcion": "Postre Danette, cremoso e irresistible.",
+      "imagen": "images/danette.jpg",
+      "product_ref": "Postre Dulce De Leche Pack X4 95gr Danette",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/postre-dulce-de-leche-pack-x4-95gr-danette/p"
+    },
+    {
+      "id": "serenito",
+      "nombre": "Serenito",
+      "categoria": "Alimentos",
+      "descripcion": "Serenito, el postre preferido de los chicos argentinos.",
+      "imagen": "images/serenito.jpg",
+      "product_ref": "Postre Vainilla 95 Gr Serenito",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/postre-vainilla-95-gr-serenito/p"
+    },
+    {
+      "id": "royal",
+      "nombre": "Royal",
+      "categoria": "Alimentos",
+      "descripcion": "Royal, para preparar postres caseros desde siempre.",
+      "imagen": "images/royal.jpg",
+      "product_ref": "Postre Royal Chocolate X65g",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/postre-royal-chocolate-x65g/p"
+    },
+    {
+      "id": "karinat",
+      "nombre": "Karinat",
+      "categoria": "Lácteos",
+      "descripcion": "Yogur helado Karinat, fresquito y delicioso.",
+      "imagen": "images/karinat.jpg",
+      "product_ref": "Yogur Helado Karinat Griego 120 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/yogur-helado-karinat-griego-120-gr/p"
+    },
+    {
+      "id": "la_campagnola",
+      "nombre": "La Campagnola",
+      "categoria": "Alimentos",
+      "descripcion": "Mermelada La Campagnola, frutas de la huerta en frasco.",
+      "imagen": "images/la_campagnola.jpg",
+      "product_ref": "Mermelada La Campagnola Selección Durazno X390",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/mermelada-la-campagnola-seleccion-durazno-x390/p"
+    },
+    {
+      "id": "dulcor",
+      "nombre": "Dulcor",
+      "categoria": "Alimentos",
+      "descripcion": "Mermelada Dulcor, sabor casero a buen precio.",
+      "imagen": "images/dulcor.jpg",
+      "product_ref": "Mermelada Dulcor Durazno 500 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/mermelada-dulcor-durazno-500-gr-2/p"
+    },
+    {
+      "id": "esnaola",
+      "nombre": "Esnaola",
+      "categoria": "Alimentos",
+      "descripcion": "Dulce de membrillo Esnaola, clásico de la mesa argentina.",
+      "imagen": "images/esnaola.jpg",
+      "product_ref": "Dulce De Membrillo Esnaola   1 Kg",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/dulce-de-membrillo-esnaola/p"
+    },
+    {
+      "id": "gallo_arroz",
+      "nombre": "Gallo",
+      "categoria": "Alimentos",
+      "descripcion": "Arroz Gallo, el más vendido en Argentina.",
+      "imagen": "images/gallo_arroz.jpg",
+      "product_ref": "Arroz Gallo Integral Selec X 500 Gr Gallo",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/arroz-gallo-integral-selec-x-500-gr-gallo/p"
+    },
+    {
+      "id": "lactal",
+      "nombre": "Lactal",
+      "categoria": "Alimentos",
+      "descripcion": "Pan lactal, el pan de molde más clásico de Argentina.",
+      "imagen": "images/lactal.jpg",
+      "product_ref": "Molde Pan Lactal N 1 Con Tapa Doña Clara",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/molde-pan-lactal-n-1-con-tapa-dona-clara/p"
+    },
+    {
+      "id": "cerealitas",
+      "nombre": "Cerealitas",
+      "categoria": "Alimentos",
+      "descripcion": "Cerealitas, la galletita saludable de toda la vida.",
+      "imagen": "images/cerealitas.jpg",
+      "product_ref": "Galletitas Dulces Granola 170 Gr Cerealitas",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/galletitas-dulces-granola-170-gr-cerealitas-2/p"
+    },
+    {
+      "id": "cif",
+      "nombre": "Cif",
+      "categoria": "Limpieza",
+      "descripcion": "Cif, limpieza profunda en cocinas y baños.",
+      "imagen": "images/cif.jpg",
+      "product_ref": "Detergente Bioactive Cif Limón Doypack 450 Ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/detergente-bioactive-cif-limon-doypack-450-ml/p"
+    },
+    {
+      "id": "elegante",
+      "nombre": "Elegante",
+      "categoria": "Hogar",
+      "descripcion": "Papel higiénico Elegante, suavidad en el hogar argentino.",
+      "imagen": "images/elegante.jpg",
+      "product_ref": "Papel Higienico Elegante Simple Hoja 4x30m",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/papel-higienico-elegante-simple-hoja-4x30m/p"
+    },
+    {
+      "id": "higienol",
+      "nombre": "Higienol",
+      "categoria": "Hogar",
+      "descripcion": "Papel higiénico Higienol, resistente y accesible.",
+      "imagen": "images/higienol.jpg",
+      "product_ref": "Papel Higienico Higienol Plus Pp Dh30x18",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/papel-higienico-higienol-plus-pp-dh30x18/p"
+    },
+    {
+      "id": "dermaglos",
+      "nombre": "Dermaglos",
+      "categoria": "Personal",
+      "descripcion": "Dermaglos, crema de manos y cuerpo, marca argentina querida.",
+      "imagen": "images/dermaglos.jpg",
+      "product_ref": "Crema Manos Y Uñas Dermaglos Esencial X 50 Gr Dermaglos",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/crema-manos-y-unas-dermaglos-esencial-x-50-gr-dermaglos/p"
+    },
+    {
+      "id": "hinds",
+      "nombre": "Hinds",
+      "categoria": "Personal",
+      "descripcion": "Crema de manos Hinds, suavidad garantizada.",
+      "imagen": "images/hinds.jpg",
+      "product_ref": "Crema Para Manos Rosa Plus 90 Ml Hinds",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/crema-para-manos-rosa-plus-90-ml-hinds/p"
+    },
+    {
+      "id": "protex",
+      "nombre": "Protex",
+      "categoria": "Personal",
+      "descripcion": "Jabón Protex, protección antibacterial.",
+      "imagen": "images/protex.jpg",
+      "product_ref": "Jabón Líquido Antibacterial Pro Hidratación 230 Ml Protex",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/jabon-liquido-antibacterial-pro-hidratacion-230-ml-protex/p"
+    },
+    {
+      "id": "palmolive",
+      "nombre": "Palmolive",
+      "categoria": "Personal",
+      "descripcion": "Palmolive, hidratación y suavidad en la ducha.",
+      "imagen": "images/palmolive.jpg",
+      "product_ref": "Jabón Líquido Palmolive Luminous Oils Avocado 250 Ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/jabon-liquido-palmolive-luminous-oils-avocado-250-ml/p"
+    },
+    {
+      "id": "villeneuve",
+      "nombre": "Villeneuve",
+      "categoria": "Personal",
+      "descripcion": "Protector solar Villeneuve, marca argentina especialista.",
+      "imagen": "images/villeneuve.jpg",
+      "product_ref": "Protector Solar Fps50 250 Ml Vn",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/protector-solar-fps50-250-ml-vn/p"
+    },
+    {
+      "id": "johnson_baby",
+      "nombre": "Johnson Baby",
+      "categoria": "Personal",
+      "descripcion": "Johnson's Baby, cuidado suave para bebés.",
+      "imagen": "images/johnson_baby.jpg",
+      "product_ref": "Toallitas Johnson´s Baby Cabeza A Pies 44 U",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/toallitas-johnson-s-baby-cabeza-a-pies-44-u/p"
+    },
+    {
+      "id": "pampers",
+      "nombre": "Pampers",
+      "categoria": "Bebé",
+      "descripcion": "Pañales Pampers, confianza de millones de mamás.",
+      "imagen": "images/pampers.jpg",
+      "product_ref": "Pañales Pampers Babysan Xxg 30u",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/panales-pampers-babysan-xxg-30u/p"
+    },
+    {
+      "id": "kukina",
+      "nombre": "Kukina",
+      "categoria": "Alimentos",
+      "descripcion": "Galletitas Kukina, clásicas del mate argentino.",
+      "imagen": "images/kukina.jpg",
+      "product_ref": "Galletita Kukina Anillos Chocolate X180g",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/galletita-kukina-anillos-chocolate-x180g-2/p"
+    },
+    {
+      "id": "la_planta_cafe",
+      "nombre": "La Planta De Café",
+      "categoria": "Bebidas",
+      "descripcion": "Café La Planta, tostado artesanal de especialidad.",
+      "imagen": "images/la_planta_cafe.jpg",
+      "product_ref": "Café La Planta De Café Molido 500 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cafe-la-planta-de-cafe-molido-500-gr/p"
+    },
+    {
+      "id": "cbse",
+      "nombre": "Cbse",
+      "categoria": "Bebidas",
+      "descripcion": "Yerba CBSE con guaraná, energía natural.",
+      "imagen": "images/cbse.jpg",
+      "product_ref": "Yerba Mate Guarana Cbse 500 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/yerba-mate-guarana-cbse-500-gr/p"
     }
   ]
 }
