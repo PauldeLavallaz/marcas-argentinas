@@ -1,40 +1,313 @@
 {
-  "version": "1.0",
-  "descripcion": "Pool de marcas argentinas para el pipeline de contenido Morfeo Labs",
+  "version": "2.0",
+  "fuente": "Jumbo Argentina API",
+  "descripcion": "Pool de marcas presentes en Jumbo Argentina para el pipeline de contenido Morfeo Labs",
   "marcas": [
-    {"id": "havanna", "nombre": "Alfajores Havanna", "categoria": "Alimentos", "descripcion": "Alfajores premium argentinos rellenos de dulce de leche. Icono nacional, consumo indulgente y gifting.", "imagen": "images/havanna.jpg"},
-    {"id": "la_americana", "nombre": "Medialuna La Americana", "categoria": "Panadería", "descripcion": "Panadería porteña clásica, famosa por sus medialunas de manteca. Tradición y desayuno argentino.", "imagen": "images/la_americana.jpg"},
-    {"id": "playadito", "nombre": "Maté Playadito", "categoria": "Infusiones", "descripcion": "Yerba mate correntina, suave y sin palo. Una de las marcas más consumidas del país.", "imagen": "images/playadito.jpg"},
-    {"id": "terrabusi", "nombre": "Galletitas Terrabusi", "categoria": "Alimentos", "descripcion": "Galletitas dulces y saladas de consumo masivo. Clásico del snack argentino en todos los hogares.", "imagen": "images/terrabusi.jpg"},
-    {"id": "milka_arg", "nombre": "Chocolates Milka Argentina", "categoria": "Alimentos", "descripcion": "Chocolates con leche de vaca alpina. Variantes locales para el mercado argentino.", "imagen": "images/milka_arg.jpg"},
-    {"id": "serenisima_ddl", "nombre": "Dulce de Leche La Serenísima", "categoria": "Lácteos", "descripcion": "Dulce de leche clásico argentino, el más vendido del país. Versiones repostero y untable.", "imagen": "images/serenisima_ddl.jpg"},
-    {"id": "casancrem", "nombre": "CasanCrem Light La Serenísima", "categoria": "Lácteos", "descripcion": "Queso crema light, versátil para cocina y untar. Opción saludable de la línea Serenísima.", "imagen": "images/casancrem.jpg"},
-    {"id": "trapiche", "nombre": "Vino Trapiche", "categoria": "Bebidas", "descripcion": "Bodega mendocina líder. Varietales como Malbec y Cabernet para el mercado nacional e internacional.", "imagen": "images/trapiche.jpg"},
-    {"id": "quilmes", "nombre": "Cerveza Quilmes", "categoria": "Bebidas", "descripcion": "La cerveza argentina por excelencia. Rubia, refrescante, asociada al asado y el fútbol.", "imagen": "images/quilmes.jpg"},
-    {"id": "taragui", "nombre": "Yerba Taragüí", "categoria": "Infusiones", "descripcion": "La yerba mate más vendida de Argentina. Con y sin palo, sabor intenso y tradicional.", "imagen": "images/taragui.jpg"},
-    {"id": "fernet_branca", "nombre": "Fernet Branca", "categoria": "Bebidas", "descripcion": "Licor amargo italiano adoptado por Argentina como bebida nacional. Se toma con Coca.", "imagen": "images/fernet_branca.jpg"},
-    {"id": "pebete_vila", "nombre": "Pebete Vila", "categoria": "Panadería", "descripcion": "Pan pebete clásico para sándwiches. Esponjoso y suave, ideal para medialunas rellenas.", "imagen": "images/pebete_vila.jpg"},
-    {"id": "ugis", "nombre": "Pizzas Ugi's", "categoria": "Gastronomía", "descripcion": "Cadena de pizzas económicas porteña. Símbolo de la pizza argentina popular y accesible.", "imagen": "images/ugis.jpg"},
-    {"id": "freddo", "nombre": "Helados Freddo", "categoria": "Alimentos", "descripcion": "Heladería premium argentina. Helados artesanales con sabores clásicos y creativos.", "imagen": "images/freddo.jpg"},
-    {"id": "topper", "nombre": "Zapatillas Topper", "categoria": "Indumentaria", "descripcion": "Marca de calzado deportivo argentina. Zapatillas running y lifestyle a precio accesible.", "imagen": "images/topper.jpg"},
-    {"id": "le_coq", "nombre": "Le Coq Sportif Argentina", "categoria": "Indumentaria", "descripcion": "Ropa deportiva y casual con historia en el fútbol argentino. Camisetas de selecciones.", "imagen": "images/le_coq.jpg"},
-    {"id": "montagne", "nombre": "Campera Montagne", "categoria": "Indumentaria", "descripcion": "Marca outdoor argentina. Camperas, mochilas y equipamiento para montaña y aventura.", "imagen": "images/montagne.jpg"},
-    {"id": "mimo_co", "nombre": "Mochila Mimo&Co", "categoria": "Accesorios", "descripcion": "Marca de moda infantil argentina. Mochilas y accesorios escolares con diseño colorido.", "imagen": "images/mimo_co.jpg"},
-    {"id": "noblex_auriculares", "nombre": "Auriculares Noblex", "categoria": "Tecnología", "descripcion": "Auriculares inalámbricos de marca argentina. Relación precio-calidad para el mercado masivo.", "imagen": "images/noblex_auriculares.jpg"},
-    {"id": "noblex_tv", "nombre": "Smart TV Noblex", "categoria": "Tecnología", "descripcion": "Televisores fabricados en Argentina. Android TV accesible para el hogar argentino.", "imagen": "images/noblex_tv.jpg"},
-    {"id": "oster_arg", "nombre": "Licuadora Oster Argentina", "categoria": "Electrodomésticos", "descripcion": "Licuadoras y electrodomésticos de cocina. Marca clásica del hogar argentino.", "imagen": "images/oster_arg.jpg"},
-    {"id": "stanley_arg", "nombre": "Mate Stanley Argentina", "categoria": "Accesorios", "descripcion": "Mates y termos de acero inoxidable. Furor en Argentina por durabilidad y diseño.", "imagen": "images/stanley_arg.jpg"},
-    {"id": "lumilagro", "nombre": "Termo Lumilagro", "categoria": "Accesorios", "descripcion": "Termos de vidrio argentinos, icónicos por su tapón rojo. Clásico del mate argentino.", "imagen": "images/lumilagro.jpg"},
-    {"id": "bic_arg", "nombre": "Biromes Bic Argentina", "categoria": "Papelería", "descripcion": "Bolígrafos y útiles escolares. La birome más vendida en Argentina hace décadas.", "imagen": "images/bic_arg.jpg"},
-    {"id": "rivadavia", "nombre": "Cuadernos Rivadavia", "categoria": "Papelería", "descripcion": "Cuadernos escolares argentinos. Tapa dura, hojas rayadas, presente en todas las escuelas.", "imagen": "images/rivadavia.jpg"},
-    {"id": "sugus", "nombre": "Caramelos Sugus", "categoria": "Confitería", "descripcion": "Caramelos masticables de frutas. Clásico de kiosco argentino desde los 70.", "imagen": "images/sugus.jpg"},
-    {"id": "palitos_loro", "nombre": "Chupetines Palitos del Loro", "categoria": "Confitería", "descripcion": "Chupetines redondos de colores. Ícono del kiosco escolar argentino.", "imagen": "images/palitos_loro.jpg"},
-    {"id": "cocinero", "nombre": "Aceite Cocinero", "categoria": "Alimentos", "descripcion": "Aceite de girasol para cocina. Marca líder en el mercado argentino de aceites.", "imagen": "images/cocinero.jpg"},
-    {"id": "arroz_gallo", "nombre": "Arroz Gallo", "categoria": "Alimentos", "descripcion": "Arroz largo fino, marca histórica argentina. Presente en todas las despensas del país.", "imagen": "images/arroz_gallo.jpg"},
-    {"id": "knorr_arg", "nombre": "Fideos Knorr Argentina", "categoria": "Alimentos", "descripcion": "Pastas secas y sopas en sobre. Solución rápida para la cocina cotidiana argentina.", "imagen": "images/knorr_arg.jpg"},
-    {"id": "heinz_arg", "nombre": "Salsa Heinz Argentina", "categoria": "Alimentos", "descripcion": "Ketchup y salsas Heinz adaptadas al paladar argentino. Formato familiar.", "imagen": "images/heinz_arg.jpg"},
-    {"id": "hellmanns_arg", "nombre": "Mayonesa Hellmann's Argentina", "categoria": "Alimentos", "descripcion": "Mayonesa líder del mercado argentino. Clásica y en versiones light y vegana.", "imagen": "images/hellmanns_arg.jpg"},
-    {"id": "fanacoa", "nombre": "Ketchup Fanacoa", "categoria": "Alimentos", "descripcion": "Ketchup y salsas de marca argentina. Más económico que las multinacionales, muy popular.", "imagen": "images/fanacoa.jpg"},
-    {"id": "el_molino", "nombre": "Facturas El Molino", "categoria": "Panadería", "descripcion": "Confitería porteña histórica. Facturas, tortas y medialunas artesanales de calidad premium.", "imagen": "images/el_molino.jpg"}
+    {
+      "id": "la_serenisima_ddl",
+      "nombre": "La Serenisima",
+      "categoria": "Alimentos",
+      "descripcion": "Dulce de leche clásico, el más vendido de Argentina.",
+      "imagen": "images/la_serenisima_ddl.jpg",
+      "product_ref": "Dulce De Leche La Serenisima Clasico 400g",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/dulce-de-leche-la-serenisima-clasico-400g-2/p"
+    },
+    {
+      "id": "milkaut_ddl",
+      "nombre": "Milkaut",
+      "categoria": "Alimentos",
+      "descripcion": "Dulce de leche Milkaut, sabor cremoso.",
+      "imagen": "images/milkaut_ddl.jpg",
+      "product_ref": "Dulce De Leche Milkaut 1 Kg",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/dulce-de-leche-milkaut/p"
+    },
+    {
+      "id": "yogurisimo",
+      "nombre": "Yogurisimo",
+      "categoria": "Lácteos",
+      "descripcion": "Yogur bebible líder en Argentina.",
+      "imagen": "images/yogurisimo.jpg",
+      "product_ref": "Yogur Bebible Banana 900 Gr Yogurisimo",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/yogur-bebible-banana-900-gr-yogurisimo/p"
+    },
+    {
+      "id": "sancor_queso",
+      "nombre": "Sancor",
+      "categoria": "Lácteos",
+      "descripcion": "Queso cremoso Sancor, clásico de la heladera argentina.",
+      "imagen": "images/sancor_queso.jpg",
+      "product_ref": "Queso Cremoso Light 290g Sancor Mendicrim",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/queso-cremoso-light-290g-sancor-mendicrim/p"
+    },
+    {
+      "id": "ilolay_ddl",
+      "nombre": "Ilolay",
+      "categoria": "Alimentos",
+      "descripcion": "Dulce de leche Ilolay, sabor entrerriano.",
+      "imagen": "images/ilolay_ddl.jpg",
+      "product_ref": "Dulce De Leche Ilolay Pote 400 G",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/dulce-de-leche-ilolay-pote-400-g/p"
+    },
+    {
+      "id": "citric_jugo",
+      "nombre": "Citric",
+      "categoria": "Bebidas",
+      "descripcion": "Jugo de naranja 100% natural Citric.",
+      "imagen": "images/citric_jugo.jpg",
+      "product_ref": "Jugo Citric Naranja  Zanahoria 1l Tetra",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/jugo-citric-naranja-zanahoria-1l-tetra/p"
+    },
+    {
+      "id": "aquarius",
+      "nombre": "Aquarius",
+      "categoria": "Bebidas",
+      "descripcion": "Agua saborizada Aquarius, hidratación sin gas.",
+      "imagen": "images/aquarius.jpg",
+      "product_ref": "Saborizada Aquarius Pomelo 2.25lt",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/saborizada-aquarius-pomelo-2-25lt/p"
+    },
+    {
+      "id": "gatorade",
+      "nombre": "Gatorade",
+      "categoria": "Bebidas",
+      "descripcion": "Bebida isotónica Gatorade para deportistas.",
+      "imagen": "images/gatorade.jpg",
+      "product_ref": "Isotonico Gatorade Frutas Tropical 500cc",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/isotonico-gatorade-frutas-tropical-500cc/p"
+    },
+    {
+      "id": "imperial_cerveza",
+      "nombre": "Imperial",
+      "categoria": "Bebidas",
+      "descripcion": "Cerveza Imperial, la premium argentina.",
+      "imagen": "images/imperial_cerveza.jpg",
+      "product_ref": "Cerveza Imperial Golden 473cc",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cerveza-imperial-golden-473cc/p"
+    },
+    {
+      "id": "patagonia_cerveza",
+      "nombre": "Patagonia",
+      "categoria": "Bebidas",
+      "descripcion": "Cerveza Patagonia, artesanal del sur.",
+      "imagen": "images/patagonia_cerveza.jpg",
+      "product_ref": "Cerveza 473 Ml X 6 U Patagonia",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/cerveza-473-ml-x-6-u-patagonia/p"
+    },
+    {
+      "id": "schweppes",
+      "nombre": "Schweppes",
+      "categoria": "Bebidas",
+      "descripcion": "Gaseosa Schweppes tónica, el clásico del aperitivo.",
+      "imagen": "images/schweppes.jpg",
+      "product_ref": "Gaseosa Schweppes Tónica 1.5 L",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/gaseosa-schweppes-tonica-1-5-l/p"
+    },
+    {
+      "id": "coca_cola",
+      "nombre": "Coca Cola",
+      "categoria": "Bebidas",
+      "descripcion": "Coca-Cola, la gaseosa más icónica del mundo.",
+      "imagen": "images/coca_cola.jpg",
+      "product_ref": "Coca-cola Zero 2,25 Lt",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/coca-cola-zero-2-25-lt/p"
+    },
+    {
+      "id": "dr_lemon",
+      "nombre": "Dr Lemon",
+      "categoria": "Bebidas",
+      "descripcion": "Aperitivo Dr. Lemon, nueva sensación argentina.",
+      "imagen": "images/dr_lemon.jpg",
+      "product_ref": "Aperitivo Dr.lemon Vodka 473cc",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/aperitivo-dr-lemon-vodka-473cc/p"
+    },
+    {
+      "id": "bon_o_bon",
+      "nombre": "Bon O Bon",
+      "categoria": "Golosinas",
+      "descripcion": "Bon o Bon, el bombón más famoso de Argentina.",
+      "imagen": "images/bon_o_bon.jpg",
+      "product_ref": "Alfajor Mini Bon O Bon 117 Grs",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/alfajor-mini-bon-o-bon-117-grs/p"
+    },
+    {
+      "id": "arcor_jugo",
+      "nombre": "Arcor",
+      "categoria": "Alimentos",
+      "descripcion": "Jugos y golosinas Arcor, marca argentina número uno.",
+      "imagen": "images/arcor_jugo.jpg",
+      "product_ref": "Jugo Listo Arcor Naranja 200cc",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/jugo-listo-arcor-naranja-200cc/p"
+    },
+    {
+      "id": "mr_pops",
+      "nombre": "Mr Pop´S",
+      "categoria": "Golosinas",
+      "descripcion": "Chupetines Mr. Pop's, clásico del kiosco argentino.",
+      "imagen": "images/mr_pops.jpg",
+      "product_ref": "Chupetines Surtidos Evolution Mr´pops 432 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/chupetines-surtidos-evolution-mr-pops-432-gr/p"
+    },
+    {
+      "id": "hellmanns",
+      "nombre": "Hellmann´S",
+      "categoria": "Alimentos",
+      "descripcion": "Mayonesa Hellmann's, la número uno de Argentina.",
+      "imagen": "images/hellmanns.jpg",
+      "product_ref": "Mayonesa Hellmanns X320g",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/mayonesa-hellmanns-x320g/p"
+    },
+    {
+      "id": "heinz",
+      "nombre": "Heinz",
+      "categoria": "Alimentos",
+      "descripcion": "Ketchup Heinz, el condimento favorito.",
+      "imagen": "images/heinz.jpg",
+      "product_ref": "Ketchup Heinz 397 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/ketchup-heinz-397-gr/p"
+    },
+    {
+      "id": "cocinero",
+      "nombre": "Cocinero",
+      "categoria": "Alimentos",
+      "descripcion": "Aceite de girasol Cocinero, en todas las cocinas argentinas.",
+      "imagen": "images/cocinero.jpg",
+      "product_ref": "Aceite De Girasol Cocinero 1.5 L",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/aceite-de-girasol-cocinero-1-5-l/p"
+    },
+    {
+      "id": "natura",
+      "nombre": "Natura",
+      "categoria": "Alimentos",
+      "descripcion": "Aceite Natura, liviano y natural.",
+      "imagen": "images/natura.jpg",
+      "product_ref": "Aceite De Girasol1.5 L Natura",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/aceite-de-girasol1-5-l-natura/p"
+    },
+    {
+      "id": "oliovita",
+      "nombre": "Oliovita",
+      "categoria": "Alimentos",
+      "descripcion": "Aceite de oliva Oliovita, calidad argentina.",
+      "imagen": "images/oliovita.jpg",
+      "product_ref": "Aceite De Oliva Oliovita 1lt",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/aceite-de-oliva-oliovita-1lt/p"
+    },
+    {
+      "id": "de_cecco",
+      "nombre": "De Cecco",
+      "categoria": "Alimentos",
+      "descripcion": "Pastas De Cecco, calidad italiana en Argentina.",
+      "imagen": "images/de_cecco.jpg",
+      "product_ref": "Fideos Spaghetti De Cecco 500 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/fideos-spaghetti-de-cecco-500-gr-2/p"
+    },
+    {
+      "id": "luchetti",
+      "nombre": "Luchetti",
+      "categoria": "Alimentos",
+      "descripcion": "Pastas Luchetti, clásico de la mesa argentina.",
+      "imagen": "images/luchetti.jpg",
+      "product_ref": "Fideos Coditos Lucchetti X500 Gr",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/fideos-coditos-lucchetti-x500-gr-2/p"
+    },
+    {
+      "id": "ayudin",
+      "nombre": "Ayudin",
+      "categoria": "Limpieza",
+      "descripcion": "Lavandina Ayudín, el limpiador más confiable de Argentina.",
+      "imagen": "images/ayudin.jpg",
+      "product_ref": "Lavandina Ayudin Original 2 L",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/lavandina-ayudin-original-2-l/p"
+    },
+    {
+      "id": "magistral",
+      "nombre": "Magistral",
+      "categoria": "Limpieza",
+      "descripcion": "Detergente Magistral, limpieza poderosa.",
+      "imagen": "images/magistral.jpg",
+      "product_ref": "Detergente Magistral Platinum Limon Ama 750ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/detergente-magistral-platinum-limon-ama-750ml/p"
+    },
+    {
+      "id": "woolite",
+      "nombre": "Woolite",
+      "categoria": "Limpieza",
+      "descripcion": "Woolite para ropa delicada, cuida las prendas.",
+      "imagen": "images/woolite.jpg",
+      "product_ref": "Detergente Woolite Ropa Oscura Dp 450ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/detergente-woolite-ropa-oscura-dp-450ml/p"
+    },
+    {
+      "id": "downy",
+      "nombre": "Downy",
+      "categoria": "Limpieza",
+      "descripcion": "Suavizante Downy, ropa suave y perfumada.",
+      "imagen": "images/downy.jpg",
+      "product_ref": "Suavizante Downy Brisa De Verano 350ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/suavizante-downy-brisa-de-verano-350ml/p"
+    },
+    {
+      "id": "nivea",
+      "nombre": "Nivea",
+      "categoria": "Personal",
+      "descripcion": "Crema Nivea, icono del cuidado de la piel.",
+      "imagen": "images/nivea.jpg",
+      "product_ref": "Crema Corporal Hidratante Milk Nutritiva 250 Ml Nivea",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/crema-corporal-hidratante-milk-nutritiva-250-ml-nivea/p"
+    },
+    {
+      "id": "rexona",
+      "nombre": "Rexona",
+      "categoria": "Personal",
+      "descripcion": "Desodorante Rexona, protección que dura.",
+      "imagen": "images/rexona.jpg",
+      "product_ref": "Desodorante Rexona Xtracool 250 Ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/desodorante-rexona-xtracool-250-ml/p"
+    },
+    {
+      "id": "dove",
+      "nombre": "Dove",
+      "categoria": "Personal",
+      "descripcion": "Dove, belleza real y cuidado del cuerpo.",
+      "imagen": "images/dove.jpg",
+      "product_ref": "Desodorante Femenino Dove Original 150ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/desodorante-femenino-dove-original-150ml/p"
+    },
+    {
+      "id": "neutrogena",
+      "nombre": "Neutrogena",
+      "categoria": "Personal",
+      "descripcion": "Neutrogena, dermatología que funciona.",
+      "imagen": "images/neutrogena.jpg",
+      "product_ref": "Toallitas Desmaquillantes Piel Sensible X 25 Un Neutrogena",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/toallitas-desmaquillantes-piel-sensible-x-25-un-neutrogena/p"
+    },
+    {
+      "id": "capilatis",
+      "nombre": "Capilatis",
+      "categoria": "Personal",
+      "descripcion": "Capilatis, cuidado del cabello natural argentino.",
+      "imagen": "images/capilatis.jpg",
+      "product_ref": "Shampoo Capilatis Iluminador 420 Ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/shampoo-capilatis-iluminador-420-ml/p"
+    },
+    {
+      "id": "fernet_branca",
+      "nombre": "Branca",
+      "categoria": "Bebidas",
+      "descripcion": "Fernet Branca, el aperitivo nacional argentino.",
+      "imagen": "images/fernet_branca.jpg",
+      "product_ref": "Fernet Branca 750 Ml",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/fernet-branca-750-ml-2/p"
+    },
+    {
+      "id": "fernet_capri",
+      "nombre": "Capri",
+      "categoria": "Bebidas",
+      "descripcion": "Fernet Capri, alternativa económica muy popular.",
+      "imagen": "images/fernet_capri.jpg",
+      "product_ref": "Fernet Capri Bot700",
+      "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/fernet-capri-bot700-2/p"
+    }
   ]
 }
