@@ -1,8 +1,17 @@
 {
   "version": "2.0",
-  "fuente": "Jumbo Argentina API",
-  "descripcion": "Pool de marcas presentes en Jumbo Argentina para el pipeline de contenido Morfeo Labs",
+  "fuente": "manual",
+  "descripcion": "Catálogo de marcas argentinas",
   "marcas": [
+    {
+      "id": "cavernicola",
+      "nombre": "CAVERNICOLA",
+      "descripcion": "Personaje de marketing: el cavernícola como metáfora de la agencia tradicional que no se adaptó a la IA",
+      "categoria": "Personaje",
+      "url": "",
+      "notas": "Hombre 30 años, pelo largo oscuro salvaje, barba espesa, pieles de animal, sin camisa. Representa el contraste marketing primitivo vs IA.",
+      "imagen": "images/cavernicola.jpg"
+    },
     {
       "id": "la_serenisima_ddl",
       "nombre": "La Serenisima",
@@ -524,6 +533,28 @@
       "imagen": "images/cbse.jpg",
       "product_ref": "Yerba Mate Guarana Cbse 500 Gr",
       "jumbo_url": "https://jumboargentina.vtexcommercestable.com.br/yerba-mate-guarana-cbse-500-gr/p"
+    },
+    {
+      "id": "fem_probioticos",
+      "nombre": "FEM Probióticos",
+      "categoria": "Salud femenina",
+      "descripcion": "Probióticos y prebióticos vaginales para la salud íntima femenina. Suplemento masticable en cápsulas rosadas.",
+      "imagen": "images/fem_probioticos.jpg",
+      "product_ref": "FEM Probióticos Vaginales 60 cápsulas masticables",
+      "url": "https://femprobiotics.co/"
+    },
+    {
+      "nombre": "DASSA",
+      "categoria": "Logística",
+      "descripcion": "Depósito Fiscal y logística integral para comercio exterior. Operación 24/7, infraestructura de 7.700m2, trazabilidad completa. Para importadores y exportadores argentinos.",
+      "tono": "profesional, confiable, experto",
+      "producto_destacado": "Depósito fiscal y logística de comercio exterior",
+      "target": "importadores, exportadores, despachantes de aduana, dueños de PyME que importan",
+      "imagen": "images/dassa.png",
+      "instagram": "@dassa_arg",
+      "website": "dassa.com.ar",
+      "colores": "#CC0000, #FFFFFF",
+      "notas": "Empresa B2B. Contenido educativo sobre comercio exterior, aduana, logística. Personaje = importador/despachante PyME argentina."
     }
   ]
 }
